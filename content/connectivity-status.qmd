@@ -1,42 +1,41 @@
-
-
 # Connectivity Status Results {-}
 
 ## Current Connectivity Status {-}
 
-In the Tuzist’ol T’ah watersheds, X km of Talo habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected.  
+In the Tuzist'ol T'ah watersheds, 3996.06 km of Talo habitat are currently connected to the ocean and 137.95 km are disconnected from it. This means that 96.7% of the 4134.02 km of total habitat is connected.
 
-In the Tuzist’ol T’ah watersheds, X km of Chinook Salmon habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected.  
+In the Tuzist'ol T'ah watersheds, 678.76 km of Chinook Salmon habitat are currently connected to the ocean and 91.16 km are disconnected from it. This means that 88.2% of the 769.92 km of total habitat is connected.
 
 
 ## Structure Count {-}
 
-In the Tuzist’ol T’ah watersheds, X structures potentially disconnect Talo habitat and X structures potentially disconnect Chinook Salmon habitat.  
+In the Tuzist'ol T'ah watersheds, 24 structures potentially disconnect Talo habitat and 22 structures potentially disconnect Chinook Salmon habitat.
 
 ## Maps {-}
 
-Figure 1: Map of Talo habitat and structures that are confirmed or potential barriers to fish passage in the Tuzist’ol T’ah watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Talo could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Talo for spawning and rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). 
+!["Figure 1: Map of Talo habitat and structures that are confirmed or potential barriers to fish passage in the Tuzist’ol T’ah watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Talo could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Talo for spawning and rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures)."](images/Fig_1_Sockeye.png){fig-cap-location="top"}
 
-Figure 2: Map of Chinook Salmon habitat and structures that are confirmed or potential barriers to fish passage in the Tuzist’ol T’ah watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Chinook Salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Chinook for spawning and rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). 
+!["Figure 2: Map of Chinook Salmon habitat and structures that are confirmed or potential barriers to fish passage in the Tuzist’ol T’ah watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Chinook Salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Chinook for spawning and rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures)."](images/Fig_2_Chinook.png){fig-cap-location="top"}
 
 
 ## Habitat Accumulation Curves
 
-Figure 3: Habitat Accumulation Curve (HAC) showing structures in the Tuzist’ol T’ah watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Talo is upstream. The y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown. 
+!["Figure 3: Habitat Accumulation Curve (HAC) showing structures in the Tuzist’ol T’ah watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Talo is upstream. The y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown."](images/Fig%203_sk-hac-graph-05-26.png){fig-cap-location="top"}
 
 
 ## Habitat Accumulation Summary Table
-Figure 4: Habitat Accumulation Curve (HAC) showing structures in Tuzist’ol T’ah watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Chinook Salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown. 
+
+!["Figure 4: Habitat Accumulation Curve (HAC) showing structures in Tuzist’ol T’ah watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Chinook Salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown." ](content/images/Fig%204_Chinook-05-26.png){fig-cap-location="top"}
 
 ```{r hac1, echo = FALSE, results = 'asis'}
 #| label: table-1
-#| tbl-cap: "Table 1. Labelled structures in the Habitat Accumulation Curve (Figure 3), their rank, and weighted upstream habitat for Atlantic Salmon in the Stewiacke watershed. Weighted Habitat Gain per Set represents the amount (km) of weighted habitat upstream of that structure to the next structure and depicts the immediate potential gain in habitat if passage at that structure was restored. Total Weighted Habitat Upstream per Set (km) represents the total amount (km) of weighted habitat upstream of the set, regardless of upstream structures, and depicts the long-term potential gain in habitat if passage at that structure (and all other upstream structures) was restored. Structure rank represents the model ranking of all sets of 1 or more structures."
+#| tbl-cap: "Table 1. Labelled structures in the Habitat Accumulation Curve (Figure 3), their rank, and upstream habitat for Talo in the Tuzist’ol T’ah watersheds. Habitat gain represents the amount (km) of habitat upstream of that structure to the next structure and depicts the immediate potential gain in habitat if passage at that structure was restored. Total habitat upstream per set (km) represents the total amount (km) of habitat upstream of the set, regardless of upstream structures, and depicts the long-term potential gain in habitat if passage at that structure and all other upstream structures was restored. Structure rank represents the model ranking of all sets of one or more structures."
 #| warning: false
 #| echo: false
 source("Rscripts/table_formatting.R")
 library("flextable")
 
-data <- read.csv("data/table1.csv", check.names=FALSE)
+data <- read.csv("data/table1(sk-HAS).csv", check.names=FALSE)
 ft <- flextable(data)
 ft <- format_flextable(ft)
 ft
@@ -44,13 +43,13 @@ ft
 
 ```{r hac2, echo = FALSE, results = 'asis'}
 #| label: table-2
-#| tbl-cap: "Table 2. Labelled structures in the Habitat Accumulation Curve (Figure 4), their rank, and weighted upstream habitat for American Eel in the Stewiacke watershed. Weighted Habitat Gain per Set represents the amount (km) of weighted habitat upstream of that structure to the next structure and depicts the immediate potential gain in habitat if passage at that structure was restored. Total Weighted Habitat Upstream per Set (km) represents the total amount (km) of weighted habitat upstream of the set, regardless of upstream structures, and depicts the long-term potential gain in habitat if passage at that structure (and all other upstream structures) was restored. Structure rank represents the model ranking of all sets of 1 or more structures."
+#| tbl-cap: "Table 2. Labelled structures in the Habitat Accumulation Curve (Figure 4), their rank, and upstream habitat for Chinook Salmon in the Tuzist’ol T’ah watersheds. Habitat gain represents the amount (km) of habitat upstream of that structure to the next structure and depicts the immediate potential gain in habitat if passage at that structure was restored. Total habitat upstream per set (km) represents the total amount (km) of habitat upstream of the set, regardless of upstream structures, and depicts the long-term potential gain in habitat if passage at that structure and all other upstream structures was restored. Structure rank represents the model ranking of all sets of one or more structures."
 #| warning: false
 #| echo: false
 source("Rscripts/table_formatting.R")
 library("flextable")
 
-data <- read.csv("data/table2.csv", check.names=FALSE)
+data <- read.csv("data/table2(ch-HAS).csv", check.names=FALSE)
 ft <- flextable(data)
 ft <- format_flextable(ft)
 ft
