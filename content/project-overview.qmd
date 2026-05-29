@@ -1,0 +1,33 @@
+
+# Introduction {-}
+
+## Purpose{-}
+
+The purpose of the Tuzist’ol T’ah Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity primarily for Early Stuart Sockeye Salmon (Oncorhynchus nerka) and secondarily for Chinook Salmon (O. tschawytscha) in the watersheds that support Early Stuart Sockeye Salmon stocks: specifically, the Lower Trembleur, Upper Trembleur, Middle River, Takla Lake, Driftwood River, and Stuart Lake watershed groups.  This WCRP is part of a larger conservation initiative targeting Early Stuart Sockeye Salmon that is a collaborative effort among the Upper Fraser Fisheries Conservation Alliance, Binche Nation, Nak’azdli Whuten, Takla Nation, Tl’azt’en Nation, Yekooche Nation, the Province of B.C. and Fisheries and Oceans Canada known as Tuzist’ol T’ah, and watershed groups are herein referred to as Tuzist’ol T’ah watersheds.  Early Stuart Sockeye Salmon are known as Talo in Dakelh language and are referred to as such throughout this document. 
+
+This WCRP will inform efforts to close knowledge gaps and plan and prioritize restoration. Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat, and informing restoration prioritization. As knowledge gaps are closed and barriers are addressed, this plan will be revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures.  
+
+Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat. 
+
+This information is also used to inform and plan restoration efforts. Structure rankings inform restoration prioritization by summarizing what is known about fragmentation and showing the relative amount of habitat upstream of each barrier. Actual prioritization of restoration activities is a social decision that requires additional information, including the quality and condition of upstream habitat, the cultural importance of different areas within the watershed, and the costs and logistics of addressing each barrier relative to the ecological benefits of doing so.  
+
+As knowledge gaps are closed and barriers are addressed, this plan is revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures. 
+
+
+## Vision Statement  {-}
+
+The Tuzist’ol T’ah vision for Talo is “A return to the smokehouse” - The smokehouse encapsulates the smells, seasonal movement, physical and emotional sensations, connection with family, teachings, hard work, joy, unity of purpose, pride, collective and personal agency, and return to abundance that is desired.  – Tuzist’ol T’ah 2026. 
+
+Goals for achieving the Tuzist’ol T’ah vision for Talo fall under 5 main interconnected branches: a vibrant smokehouse culture, resilient populations of Talo, healthy and connected lands and waters, respect and include all knowledge systems, and return of respect and responsibility people had with salmon and the land.  
+
+This WCRP focuses specifically on the Healthy and Connected Lands and Waters branch of the Tuzist’ol T’ah vision:   
+
+Maintain and restore the ecological integrity of Talo’s ecosystems including the migration corridors, natal streams, rearing lakes and marine environment. Ecological integrity involves functionality and connectivity between all habitats including freshwater, marine, riparian and upland habitats; contributing to resiliency, biodiversity, cultural practices and enhanced community well-being. – Tuzist’ol T’ah 2026. 
+
+## Scope  {-}
+
+This WCRP focuses on habitat connectivity for Talo and Chinook Salmon in the Tuzist’ol T’ah watersheds: specifically, the Lower Trembleur, Upper Trembleur, Middle River, Takla Lake, Driftwood River, and Stuart Lake watershed groups (Figure 5). These watershed groups were chosen based on the watershed groups primarily used by Early Stuart Sockeye Salmon for spawning and rearing. Chinook Salmon are a secondary focal species of this plan, due to their cultural importance to the Indigenous nations within the Early Stuart Sockeye Salmon range. Model outputs include an estimate of the current connectivity status along with structure ranks and counts. Structures were assessed as a whole across all watershed groups and life stages (spawning and rearing) for focal species, with outputs split by species (Talo, Chinook) to provide a comprehensive conservation planning focus for each species individually. 
+
+Connectivity models in this WCRP focus on longitudinal habitat fragmentation by anthropogenic structures, including all types of dams and stream crossings. Natural barriers that could be managed to increase fish passage (i.e., beaver dams and log jams) are included as structures in connectivity models. Diffuse natural barriers that make entire areas impassible are not included in the models but may be used to define the scope of this WCRP. For example, a tributary that is inhospitable because of increased water temperature or lack of flows may be excluded from the overall spatial scope of the WCRP because restoration needs there are broader than connectivity. 
+
+Figure 5: Map of the geographic scope of this connectivity restoration plan for Talo and Chinook Salmon in the Tuzist’ol T’ah watersheds (specifically, the Lower Trembleur, Upper Trembleur, Middle River, Takla Lake, Driftwood River and Stuart Lake watershed groups) in British Columbia.   
