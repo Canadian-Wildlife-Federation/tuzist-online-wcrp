@@ -19,13 +19,27 @@ The 2026-2027 work plan is currently being developed in collaboration with the p
 
 ```{r workplan, echo = FALSE, results = 'asis'}
 #| label: table-3
-#| tbl-cap: "Table 3. Structures in the Lower Trembleur, Upper Trembleur, Middle River, Takla Lake, Driftwood River, and Stuart Lake watershed groups that are confirmed as barriers to fish passage for Talo and Chinook Salmon with confirmed habitat upstream, as of May 2026. Barriers known to be partially passable are indicated by 'yes', with further details provided in the adjacent column. Habitat gain represents the amount (km) of habitat upstream of that barrier to the next structure that will be reconnected for Talo or Chinook Salmon if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity."
+#| tbl-cap: "Table 3. Structures in the Lower Trembleur, Upper Trembleur, Middle River, Takla Lake, Driftwood River, and Stuart Lake watershed groups that are confirmed as barriers to fish passage for Talo with confirmed habitat upstream, as of May 2026. Barriers known to be partially passable are indicated by “yes”, with further details provided in the adjacent column. Habitat gain represents the amount (km) of habitat upstream of that barrier to the next structure that will be reconnected for Talo or Chinook Salmon if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity."
 #| warning: false
 #| echo: false
 source("Rscripts/table_formatting.R")
 library("flextable")
 
-data <- read.csv("data/table3(tbl-priority-ch).csv", check.names=FALSE)
+data <- read.csv("data/tables(tbl-priority-sk).csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+```{r workplan, echo = FALSE, results = 'asis'}
+#| label: table-4
+#| tbl-cap: "Table 4. Structures in the Lower Trembleur, Upper Trembleur, Middle River, Takla Lake, Driftwood River, and Stuart Lake watershed groups that are confirmed as barriers to fish passage for Chinook Salmon with confirmed habitat upstream, as of May 2026. Barriers known to be partially passable are indicated by “yes”, with further details provided in the adjacent column. Habitat gain represents the amount (km) of habitat upstream of that barrier to the next structure that will be reconnected for Talo or Chinook Salmon if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity."
+#| warning: false
+#| echo: false
+source("Rscripts/table_formatting.R")
+library("flextable")
+
+data <- read.csv("data/tables(tbl-priority-ch).csv", check.names=FALSE)
 ft <- flextable(data)
 ft <- format_flextable(ft)
 ft

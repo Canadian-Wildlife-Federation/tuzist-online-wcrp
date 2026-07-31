@@ -16,4 +16,4 @@ ft
 
 ## Detailed Methods {-}
 
-For details about accessibility, habitat, or connectivity models including structure-ranking methods, see detailed documentation for BCFishPass here:[NSFishPass GitHub](https://github.com/Canadian-Wildlife-Federation/bcfishpass)
+For details about accessibility, habitat, or connectivity models including structure-ranking methods, see detailed documentation for BCFishPass here:[BCFishPass GitHub](https://github.com/Canadian-Wildlife-Federation/bcfishpass)
